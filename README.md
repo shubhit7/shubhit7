@@ -34,7 +34,7 @@ Let's connect and discuss opportunities:
   </a>
 </p>
 
-Feel free to reach out to me via email or LinkedIn. Let's create something amazing together!
+Feel free to reach out to me via LinkedIn or Email. Let's create something amazing together!
 
 <br/>
 
