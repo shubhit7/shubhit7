@@ -25,7 +25,7 @@ I am a passionate frontend developer with a strong focus on creating delightful 
 Let's connect and discuss opportunities:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shubhit-dhiman-0a18891a7">
+  <a href="https://www.linkedin.com/in/shubhitdhiman">
     <img alt="Shubhit Dhiman - LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin--v1.png" width="48" height="48"/>
   </a>
   &nbsp
