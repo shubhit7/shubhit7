@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Frontend Developer | UI/UX Enthusiast | Trailblazer
+Frontend Engineer | UI/UX Enthusiast | Trailblazer
 
 I am a passionate frontend developer with a strong focus on creating delightful user experiences. I strive to blend aesthetics and functionality to deliver exceptional web applications. I enjoy working with the latest technologies and frameworks to bring ideas to life.
 
@@ -44,5 +44,5 @@ Feel free to reach out to me via LinkedIn or Email. Let's create something amazi
   <br/>
   Created with ❤️ by Shubhit Dhiman
   <br/>
-  &copy; 2023 Shubhit Dhiman. All rights reserved.
+  &copy; 2024 Shubhit Dhiman. All rights reserved.
 </p>
